@@ -103,4 +103,18 @@ class Geovane:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-daudt-teixeir
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-daudt-teixeira-103aa9258)
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pixel.png" width="100%">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:000000&height=100&section=footer&text=%3C%2F%3E%20by%20Geovanex&fontSize=16&fontColor=FFFFFF&animation=fadeIn"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Geovanex&label=Visualiza%C3%A7%C3%B5es&color=000000&style=flat-square)
+
+</div>
