@@ -33,12 +33,9 @@ class Geovane:
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
-> 💡 Ajuste os badges acima conforme suas ferramentas do dia a dia (frameworks, bibliotecas, bancos de dados etc.).
 
 <br>
 
@@ -54,8 +51,6 @@ class Geovane:
 </a>
 
 </div>
-
-> ⚠️ Troque `SEU-REPO-1` e `SEU-REPO-2` pelos nomes exatos dos repositórios que você quer fixar (não inventei nomes de projetos seus).
 
 <br>
 
@@ -102,26 +97,10 @@ class Geovane:
 
 </div>
 
-> ⚙️ Para essa cobra animar de verdade, crie um GitHub Action no seu repo de perfil usando **Platane/snk** — ela gera o SVG automaticamente a cada execução. Sem esse workflow configurado, a imagem acima não vai aparecer.
-
 <br>
 
 ## `08.` conecte-se
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-daudt-teixeira-103aa9258)
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pixel.png" width="100%">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1a1a,100:000000&height=100&section=footer&text=%3C%2F%3E%20by%20Geovanex&fontSize=16&fontColor=FFFFFF&animation=fadeIn"/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Geovanex&label=Visualiza%C3%A7%C3%B5es&color=000000&style=flat-square)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-daudt-teixeir
