@@ -19,6 +19,7 @@ class Geovane:
         self.cargo = "Dev Python"
         self.stack = ["Python", "Automação", "Backend"]
         self.modo = "dark"  # sempre
+        self.status = "aprendendo e construindo, um commit por vez"
 
     def objetivo(self):
         return "Escrever código limpo e resolver problemas reais."
@@ -42,6 +43,12 @@ class Geovane:
 ## `03.` projetos_em_destaque
 
 <div align="center">
+
+![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o%20%F0%9F%9A%A7-1a1a1a?style=for-the-badge&logoColor=white)
+
+<sub>ainda no início da jornada — cada repositório abaixo é um passo, não um produto final</sub>
+
+<br><br>
 
 <a href="https://github.com/Geovanex?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Geovanex&repo=SEU-REPO-1&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" />
