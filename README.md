@@ -79,27 +79,7 @@ class Geovane:
 
 <br>
 
-## `05.` activity_graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geovanex&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
-## `06.` trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Geovanex&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-<br>
-
-## `07.` snake_contribution
+## `05.` snake_contribution
 
 <div align="center">
 
@@ -109,7 +89,7 @@ class Geovane:
 
 <br>
 
-## `08.` conecte-se
+## `06.` conecte-se
 
 <div align="center">
 
